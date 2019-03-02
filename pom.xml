@@ -54,6 +54,7 @@
 		<module>initializr-generator-spring</module>
 		<module>initializr-metadata</module>
 		<module>initializr-web</module>
+		<module>initializr-app</module>
 	</modules>
 
 	<dependencyManagement>
